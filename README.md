@@ -58,11 +58,11 @@ A	B	C	D	A AND NOT (B OR NOT C) AND (NOT A AND D)
 ###a  
 ![Question2a](https://raw.githubusercontent.com/TobyAtkinson/comp110-worksheet-4/master/2a.PNG)  
 ###b  
-![Question2b](2b.png)  
+![Question2b](https://raw.githubusercontent.com/TobyAtkinson/comp110-worksheet-4/master/2b.PNG)  
 ###c  
-![Question2c](2c.png)  
+![Question2c](https://github.com/TobyAtkinson/comp110-worksheet-4/blob/master/2c.PNG?raw=true)  
 ###d  
-![Question2d](2d.png)  
+![Question2d](https://github.com/TobyAtkinson/comp110-worksheet-4/blob/master/2d.PNG?raw=true)  
  
 ##Question 3  
 ###a.  
