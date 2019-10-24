@@ -55,14 +55,14 @@ A	B	C	D	A AND NOT (B OR NOT C) AND (NOT A AND D)
 
 ##Question 2  
   
-###a
-![Question2a](2a.png)
-###b
-![Question2b](2b.png)
-###c
-![Question2c](2c.png)
-###d
-![Question2d](2d.png)
+###a  
+![Question2a](https://raw.githubusercontent.com/TobyAtkinson/comp110-worksheet-4/master/2a.PNG)  
+###b  
+![Question2b](2b.png)  
+###c  
+![Question2c](2c.png)  
+###d  
+![Question2d](2d.png)  
  
 ##Question 3  
 ###a.  
